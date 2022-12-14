@@ -40,9 +40,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Graphics" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 <a href="#"><img alt="PC" src="https://img.shields.io/badge/Windows-ACER_NITRO_5-FF0000?style=for-the-badge&logo=windows&logoColor=white"></a>
 
-## 🛠️ My favorite tools
-
-### 👨‍💻 Languages I can Code
+## 👨‍💻 Languages I can Code
 
   <p>
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -50,7 +48,7 @@ Here are some ideas to get you started:
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-0000AA?style=for-the-badge&logo=c%2B%2B&logoColor=white>
+    <img alt="C++" src="https://img.shields.io/badge/C++-0000AA?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/DJANGO-00AA00?style=for-the-badge&logo=django&logoColor=white"></p>
 
 
@@ -78,6 +76,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/anshuman-nandan">
   <img title="🔥" alt="Anshuman Github stats" src="https://github-readme-stats.vercel.app/api?username=anshuman-nandan&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
   <br>
-  <img title="🔥" alt="Anshuman Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=anshuman-nandan&theme=xcode"/>
+  <!--<img title="🔥" alt="Anshuman Github Activity Graph" src="https://readmeactivity.herokuapp.com/graph?username=anshuman-nandan&theme=xcode"/>-->
   </a>
 </p>
