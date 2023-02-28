@@ -2,6 +2,13 @@
 
 ## <p align='center'>PYTHON DEVELOPER🐍</p>
 
+<p align='center'>
+<a href='https://www.linkedin.com/in/anshuman-nandan-57b547222/'> <img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white'> </a>
+<a href='https://www.instagram.com/anshumannandan/'> <img src='https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white'> </a>
+<a href='https://t.me/anshumannandan/'> <img src='https://img.shields.io/badge/Telegram-33A8E3?logo=telegram&logoColor=white'> </a>
+<a href='https://twitter.com/_anshumannandan'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white'> </a>
+</p>
+
 ### <p align='center'>LOVE 💙 | PEACE ☮️ | CODE 🧑‍💻</p>
 
 - 🔭 I’m currently working on Self Development<br>
