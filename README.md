@@ -28,6 +28,10 @@
 ## <p align='center'>👨‍💻 LANGUAGES</p>
 
 <p align='center'>
+  <a href="https://github.com/anshumannandan">
+    <img title="🔥" alt="Anshuman top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumannandan&layout=compact&theme=dark&bg_color=202124" />
+    <br>
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
@@ -38,12 +42,7 @@
 </p>
 
 ## <p align='center'>🔥 STREAKS & STATS 📊</p>
-
 <p align="center">
-  <a href="https://github.com/anshumannandan">
-    <img title="🔥" alt="Anshuman top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumannandan&layout=compact&theme=dark&bg_color=202124" />
-    <br>
     <a href="https://github.com/anshumannandan">
       <img title="🔥" alt="Anshuman Github stats"
       src="https://github-readme-stats.vercel.app/api?username=anshumannandan&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=C91129&icon_color=C91129" />
