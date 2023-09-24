@@ -7,7 +7,9 @@
   <img height="40px" src="https://img.shields.io/badge/-ANSHUMAN-333d7a?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-NANDAN-faebee?&style=for-the-badge&logoWidth=50" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1500&vCenter=true&background=faebee&lines=Hi+there+I'm+Anshuman+Nandan+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Open Source Enthusiast;"
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1500&vCenter=true&background=faebee&lines=Hi+there+I%27m+Anshuman+Nandan+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Open%20Source%20Enthusiast;"
   alt="Headline" />
 
   <a href="https://www.linkedin.com/in/anshumannandan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
